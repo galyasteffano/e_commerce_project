@@ -1,0 +1,1 @@
+<?php header("location: comments.php"); exit();?>

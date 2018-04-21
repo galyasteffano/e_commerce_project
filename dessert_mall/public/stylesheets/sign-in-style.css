@@ -1,0 +1,38 @@
+.layout {
+    height: 550px!important;
+}
+
+h3 {
+    margin-left: 55px;
+    font-weight: normal;
+    /* remove the bold */
+    padding: 14px;
+}
+
+input[type=text] {
+    width: 500px!important;
+}
+
+input {
+    padding-top: 20px;
+}
+
+input[type=password] {
+    font-size: 20px;
+    border: solid;
+    border-radius: 6px;
+    background-color: #fefefc;
+    border-color: lightgray;
+    outline: none;
+    width: 500px;
+}
+
+input[type=submit] {
+    margin-top: 20px;
+    width: 400px !important;
+    margin-left: 51px;
+}
+
+.fields {
+    margin-bottom: 29px!important;
+}

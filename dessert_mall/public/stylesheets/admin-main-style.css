@@ -1,0 +1,45 @@
+    @import url('https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy|Cherry+Swash:700');
+    * {
+        font-family: 'Sorts Mill Goudy', serif;
+        font-size: 18px;
+    }
+
+    h2 {
+        text-align: center;
+        font-size: 26px;
+        padding: 5px;
+    }
+
+    table {
+        width: 95%;
+        margin-left: auto;
+        margin-right: auto;
+        border-collapse: collapse;
+    }
+
+    th,
+    td {
+        border-bottom: 1px solid #ddd;
+        text-align: center;
+    }
+
+    th {
+        background-color: #231715;
+        color: #FDF7F6;
+        padding-top: 25px;
+        padding-bottom: 6px;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    td {
+        padding-top: 7px;
+        padding-bottom: 7px;
+    }
+
+  textarea{
+    border:none;
+    background-color: inherit;
+  }

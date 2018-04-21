@@ -1,0 +1,50 @@
+.account-body {
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+    width: auto;
+}
+
+.right {
+    padding-top: 30px;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    background-color: rgb(245, 245, 245);
+}
+
+.left {
+    padding-top: 30px;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    background-color: rgb(245, 245, 245);
+}
+
+dl {
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    /*adds space between underline and text*/
+    text-underline-position: under;
+}
+
+a.underline:hover {
+    text-decoration: underline;
+}
+
+p {
+    color: whitesmoke;
+    padding-left: 7px;
+}
+
+.right p {
+    color: black;
+}
+
+.left p {
+    color: black;
+}
